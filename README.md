@@ -1,5 +1,5 @@
-### Hi there 👋
+### Hi there 👋 
 
-### I'm Luca, I love javascript 💻  and I also read a lot 📚
+### I'm [Luca](https://lumene98.github.io/portfolio/), I love javascript 💻  and I also read a lot 📚
 
 [![Lumene98's github stats](https://github-readme-stats.vercel.app/api?username=Lumene98&show_icons=true)](https://github.com/Lumene98)
